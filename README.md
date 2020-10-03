@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Lorem ipsum dolor sit amet
+I'm a college student with a deep interest in software engineering. I'm currently learning on software development, l
+Nulis apa lagi ya.
 
 Anyway, here's my [LinkedIn profile](https://linkedin.com/in/alifiarahmah)
