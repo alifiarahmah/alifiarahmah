@@ -1,4 +1,11 @@
-### Hello there 👋
+### Hi there! 👋😄
+My name is Alifia Rahmah. You can call me Alifia. 
+I'm a first year student at School of Engineering and Informatics, Institut Teknologi Bandung.
+
+### 🌱 Interests
+I got interested in the world of software engineering in general, but currently I'm learning web development and UI/UX.
+[Here](alifiarahmah.github.io)'s my profile website I've made, with some other little projects. 
+I look forward to opportunities to learn, work together, and implement what I've learned so far.
 
 <!--
 **alifiarahmah/alifiarahmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a college student with a deep interest in software engineering. I'm currently learning on software development, l
-Nulis apa lagi ya.
-
-Anyway, here's my [LinkedIn profile](https://linkedin.com/in/alifiarahmah)
+### 📫 You can contact me through
+- [Email](mailto:alifiarahmah03@gmail.com)
+- [Instagram](https://instagram.com/hamharaifila)
+- [LinkedIn](https://linkedin.com/in/alifiarahmah)
