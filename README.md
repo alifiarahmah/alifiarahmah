@@ -4,7 +4,7 @@ I'm a first year student at School of Engineering and Informatics, Institut Tekn
 
 ### 🌱 Interests
 I got interested in the world of software engineering in general, but currently I'm learning web development and UI/UX.
-[Here](alifiarahmah.github.io)'s my profile website I've made, with some other little projects. 
+[Here](https://alifiarahmah.github.io)'s my profile website I've made, with some other little projects. 
 I look forward to opportunities to learn, work together, and implement what I've learned so far.
 
 <!--
