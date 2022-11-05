@@ -46,6 +46,7 @@ Sometimes I also doing stuffs here
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alifiarahmah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/l0veIT_l0veIT/)
+[![picoCTF](https://img.shields.io/badge/picoCTF-C39FCA?style=flat-square)](https://play.picoctf.org/users/ARc2904)
 
 ## Social
 
