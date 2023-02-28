@@ -40,13 +40,13 @@ In my spare time, I love to join hackathons and build personal projects (and als
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 
-## Misc
+<!-- ## Misc
 
 Sometimes I also doing stuffs here
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alifiarahmah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/l0veIT_l0veIT/)
-[![picoCTF](https://img.shields.io/badge/picoCTF-C39FCA?style=flat-square)](https://play.picoctf.org/users/ARc2904)
+[![picoCTF](https://img.shields.io/badge/picoCTF-C39FCA?style=flat-square)](https://play.picoctf.org/users/ARc2904) -->
 
 ## Social
 
