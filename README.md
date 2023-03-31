@@ -1,12 +1,8 @@
-## About me
+Hello! I am an informatics student with a keen interest in software engineering, currently learning about Web Development and Mobile Development.
 
-Hello! I am Alifia Rahmah. Informatics Engineering student with a keen interest in software engineering, currently learning about Web Development and Mobile Development.
+In my spare time, I love to join hackathons and build personal projects.
 
-In my spare time, I love to join hackathons and build personal projects (and also play games, of course!)
-
-## Tech stacks & Tools I learned
-
-### Tech Stacks
+### Some tech stacks I have used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,10 +31,9 @@ In my spare time, I love to join hackathons and build personal projects (and als
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
 
-### Tools
+### Projects
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
+Feel free to check my [repositories](https://github.com/alifiarahmah?tab=repositories) or [projects section on my personal website](https://alifiarahmah.github.io/projects).
 
 <!-- ## Misc
 
@@ -48,7 +43,7 @@ Sometimes I also doing stuffs here
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/l0veIT_l0veIT/)
 [![picoCTF](https://img.shields.io/badge/picoCTF-C39FCA?style=flat-square)](https://play.picoctf.org/users/ARc2904) -->
 
-## Social
+### Social
 
 For inquiries, feel free to contact me at:
 
