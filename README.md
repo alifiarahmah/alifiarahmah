@@ -1,7 +1,8 @@
-Hello! I am an informatics student with a keen interest mainly in software engineering.
-currently learning about web development and mobile development.
+Hello! I am currently learning software, and security, and... software security. 
 
-### Some tech stacks I have used to build stuffs
+In spare time, I like to build stuffs, writing, and sometimes I also practice in [HackTheBox](https://app.hackthebox.com/users/2222507) and [TryHackMe](https://tryhackme.com/p/b0cilt3rmux).
+
+### Some tech stacks and tools I have used to build stuffs and, uh, break it?
 
 - Web Development
 
@@ -15,6 +16,10 @@ currently learning about web development and mobile development.
 
   Google Cloud Platform (GCP)
 
+- Tools
+
+  Burp Suite, ZAP, and various Kali tools
+
 ### Projects
 
 Feel free to check my [repositories](https://github.com/alifiarahmah?tab=repositories) or [projects section on my personal website](https://alifiarahmah.github.io/projects).
@@ -24,5 +29,4 @@ Feel free to check my [repositories](https://github.com/alifiarahmah?tab=reposit
 For inquiries, feel free to contact me at:
 
 -   [Email](mailto:alifiarahmah@outlook.com)
--   [Instagram](https://www.instagram.com/hamharaifila/)
 -   [LinkedIn](https://www.linkedin.com/in/alifiarahmah/)
