@@ -1,6 +1,6 @@
 Hello! I am currently learning software, and security, and... software security. 
 
-In spare time, I like building stuffs, playing games, take a walk, reading, and writing. Hmm, other activities? Oh, Sometimes I also practice in [HackTheBox](https://app.hackthebox.com/users/2222507) or [TryHackMe](https://tryhackme.com/p/alifogato), and roaming around in forums related to my interests.
+In spare time, I like building stuffs, playing games, take a walk, reading, and writing. Hmm, other activities? Oh, Sometimes I also practice in [HackTheBox](https://app.hackthebox.com/public/users/2222507) or [TryHackMe](https://tryhackme.com/p/alifogato), and roaming around in forums related to my interests.
 
 ### Some tech stacks and tools I have used
 
